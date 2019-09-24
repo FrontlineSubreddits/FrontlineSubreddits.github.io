@@ -2591,9 +2591,6 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			border-right-width: 1px;
-			border-style: solid;
-			padding: 3px;
 		}
 
 		.image.left, .image.right {
@@ -2638,6 +2635,12 @@ input, select, textarea {
 			border-right-width: 1px;
 			height: 100%;
 			font-size: 0.60rem;
+		}
+
+		.image.icon img {
+			border-right-width: 1px;
+			border-style: solid;
+			padding: 3px;
 		}
 
 		@media screen and (max-width: 980px) {
