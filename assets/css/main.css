@@ -223,6 +223,10 @@ input, select, textarea {
 		font-size: 0.8rem;
 	}
 
+	article h6 {
+		margin-top: 30px;
+	}
+
 	sub {
 		font-size: 0.8rem;
 		position: relative;
