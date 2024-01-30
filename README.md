@@ -20,4 +20,4 @@ ToDo:
 - Girls Frontline 2 site expansion
 - Reverse Collapse site expansion
 
-###If you spot any errors or missing unit not outlined here, please open an issue or send a message to /u/Eremeir
+### If you spot any errors or missing unit not outlined here, please open an issue or send a message to /u/Eremeir
