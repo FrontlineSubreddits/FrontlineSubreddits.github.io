@@ -1,7 +1,7 @@
 ## Girls' Frontline Subreddit Flairsite
 ## 2024 Update of https://xealiouth.github.io/
 
-Using data graciously compiled by /u/KookyInspection, /u/Rhasta_la_vista and /u/tehcavy
+Using data graciously compiled by the IOPWiki, randomquerty & /u/ConductorBichir, /u/KookyInspection, /u/Rhasta_la_vista and /u/tehcavy
 
 Currently as of 2/7/2024
 
