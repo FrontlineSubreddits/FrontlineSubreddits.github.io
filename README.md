@@ -1,9 +1,9 @@
 ## Girls' Frontline Subreddit Flairsite
 ## 2024 Update of https://xealiouth.github.io/
 
-Using data graciously compiled by the IOPWiki, randomquerty & /u/ConductorBichir, /u/KookyInspection, /u/Rhasta_la_vista and /u/tehcavy
+Using data graciously compiled by the IOPWiki, u/UnironicWeeaboo & /u/ConductorBichir, /u/KookyInspection, /u/Rhasta_la_vista and /u/tehcavy
 
-Currently as of 2/7/2024
+Currently as of 2/23/2024
 
 Done:
 - All non-collab dolls
@@ -13,9 +13,11 @@ Done:
 - All HoCs
 - Collab dolls
 - Collab fairies
+- Frontline Protocol and Special Acquisiton skins
+- Costume batches up to partway through Xmas2020
 
 ToDo:
-- Costume Batches
+- Remaining Costume Batches
 - Neural Cloud site expansion
 - Girls Frontline 2 site expansion
 - Reverse Collapse site expansion
