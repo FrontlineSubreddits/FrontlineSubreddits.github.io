@@ -3,7 +3,7 @@
 
 Using data graciously compiled by the IOPWiki, u/UnironicWeeaboo & /u/ConductorBichir, /u/KookyInspection, /u/Rhasta_la_vista and /u/tehcavy
 
-Currently as of 2/23/2024
+Currently as of 3/13/2024
 
 Done:
 - All non-collab dolls
@@ -14,7 +14,7 @@ Done:
 - Collab dolls
 - Collab fairies
 - Frontline Protocol and Special Acquisiton skins
-- Costume batches up to partway through Xmas2020
+- Costume batches up to Anniversary 2021
 
 ToDo:
 - Remaining Costume Batches
