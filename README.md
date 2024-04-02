@@ -1,5 +1,5 @@
 ## Girls' Frontline Subreddit Flairsite
-## 2024 Update of https://xealiouth.github.io/
+## 2024 Update of frontlinesubreddits.github.io 
 
 Using data graciously compiled by the IOPWiki, u/UnironicWeeaboo & /u/ConductorBichir, /u/KookyInspection, /u/Rhasta_la_vista and /u/tehcavy
 
