@@ -1,9 +1,10 @@
-## Girls' Frontline Subreddit Flairsite
-## 2024 Update of [frontlinesubreddits.github.io ](https://frontlinesubreddits.github.io/)
+## Girls' Frontline Subreddit Flairsite 
+[![pages-build-deployment](https://github.com/FrontlineSubreddits/FrontlineSubreddits.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/FrontlineSubreddits/FrontlineSubreddits.github.io/actions/workflows/pages/pages-build-deployment)
+## [frontlinesubreddits.github.io ](https://frontlinesubreddits.github.io/)
 
 Using data graciously compiled by the IOPWiki, u/UnironicWeeaboo & /u/ConductorBichir, /u/KookyInspection, /u/Rhasta_la_vista and /u/tehcavy
 
-Currently as of 3/13/2024
+Currently as of 3/30/2024
 
 Done:
 - All non-collab dolls
@@ -14,7 +15,7 @@ Done:
 - Collab dolls
 - Collab fairies
 - Frontline Protocol and Special Acquisiton skins
-- Costume batches up to Anniversary 2021
+- Costume batches up to Anniversary 2022
 
 ToDo:
 - Remaining Costume Batches
