@@ -15,7 +15,7 @@ Done:
 - Collab dolls
 - Collab fairies
 - Frontline Protocol and Special Acquisiton skins
-- Costume batches up to Anniversary 2022
+- Costume batches up to Sports 2022
 
 ToDo:
 - Remaining Costume Batches
