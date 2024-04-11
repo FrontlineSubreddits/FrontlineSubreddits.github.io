@@ -4,7 +4,7 @@
 
 Using data graciously compiled by the IOPWiki, u/UnironicWeeaboo & /u/ConductorBichir, /u/KookyInspection, /u/Rhasta_la_vista and /u/tehcavy
 
-Currently as of 3/30/2024
+Currently as of 4/10/2024
 
 Done:
 - All non-collab dolls
@@ -15,7 +15,7 @@ Done:
 - Collab dolls
 - Collab fairies
 - Frontline Protocol and Special Acquisiton skins
-- Costume batches up to Sports 2022
+- Costume batches up to Xmas 2023
 
 ToDo:
 - Remaining Costume Batches
@@ -23,5 +23,6 @@ ToDo:
 - Girls Frontline 2 site expansion
 - Reverse Collapse site expansion
 - Pets?
+- More NPCs, KCCO?
 
 ### If you spot any errors or missing unit not outlined here, please open an issue or send a message to /u/Eremeir
